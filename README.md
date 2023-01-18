@@ -2,9 +2,8 @@
 # My Name is Albert and I am studying to become a full-stack web developer.
 
 <code>
-  <img  height='20' src='https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png'>
+  <img  height='20' src='https://reactjs.org/'>
 </code>
-
 
 <!--
 **albertbrannan4/albertbrannan4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
