@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Albert Brannan</h1>
 <h3 align="center">A passionate Frontend Developer from Jacksonville, Florida.</h3>
 
-- 🔭 I’m currently working on **A running and lifting application.**
+- 🔭 I’m currently working on **a running and lifting application.**
 
-- 🌱 I’m currently learning **Datastructures and Algorithms**
+- 🌱 I’m currently learning **data structures and algorithms**
 
 - 💬 Ask me about **React**
 
