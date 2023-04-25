@@ -1,3 +1,5 @@
+<script src="https://kit.fontawesome.com/31a917870f.js" crossorigin="anonymous"></script>
+
 <h1 align="center">Hi 👋, I'm Albert Brannan</h1>
 <h3 align="center">A passionate Frontend Developer from Jacksonville, Florida.</h3>
 
