@@ -10,7 +10,7 @@
 - 📫 How to reach me **abrannan5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a  href='https://www.linkedin.com/in/albertbrannan4/' target="_blank" >LinkedIn</a>
+<a  href='https://www.linkedin.com/in/albertbrannan4/' target="_blank" ><i class="fa-brands fa-linkedin" style="color: #ffffff;"></i></a>
 <p align="left">
 </p>
 
