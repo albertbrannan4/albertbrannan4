@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/albertbrannan4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albertbrannan4" height="30" width="40" /></a>
 <a href="https://instagram.com/albertbrannan4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albertbrannan4" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@brandev2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@brandev2022" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@BRANDEV2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brandev2022" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/albertbrannan4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="albertbrannan4" height="30" width="40" /></a>
 </p>
 
